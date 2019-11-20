@@ -1,0 +1,22 @@
+{
+  "name": "fizzbuzzkata",
+  "version": "1.0.0",
+  "description": "http://codingdojo.org/kata/FizzBuzz/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codeflyer/FizzBuzzKata.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codeflyer/FizzBuzzKata/issues"
+  },
+  "homepage": "https://github.com/codeflyer/FizzBuzzKata#readme",
+  "dependencies": {
+    "expect": "^24.9.0"
+  }
+}
